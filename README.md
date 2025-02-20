@@ -10,9 +10,9 @@ HTML5: Estruturação da página.
 📜 Tags utilizadas
 Durante o desafio, foram aplicadas diversas tags essenciais, incluindo:
 
-✅ Tags aprendidas no curso:
-<h1> até <h6>, <p>, <mark>, <small>, <i>, <u>, <strong>, <ol>, <ul>, <li>, <a>, <hr>, <sub>, <sup>, <blockquote>.
-  
+### ✅ Tags aprendidas no curso:
+`<h1>` até `<h6>`, `<p>`, `<mark>`, `<small>`, `<i>`, `<u>`, `<strong>`, `<ol>`, `<ul>`, `<li>`, `<a>`, `<hr>`, `<sub>`, `<sup>`, `<blockquote>`.  
+
 
 📂 Como visualizar o projeto
 Clone o repositório
