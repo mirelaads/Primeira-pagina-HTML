@@ -17,6 +17,8 @@ Durante o desafio, foram aplicadas diversas tags essenciais, incluindo:
 📂 Como visualizar o projeto
 Clone o repositório
 
+https://github.com/mirelaads/Primeira-pagina-HTML.git
+
 Acesse a pasta do projeto e abra o arquivo index.html no navegador.
 
 ✨ Conclusão
